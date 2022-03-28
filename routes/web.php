@@ -18,3 +18,7 @@ Route::get('/', [HomeController::class, 'index'])->name('home.index');
 // Route::get('/', function () {
 //     return view('welcome');
 // });
+
+
+
+//test moriyama
