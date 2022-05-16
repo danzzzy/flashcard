@@ -15,7 +15,7 @@ class HomeController extends Controller
     {
         //
         $newresult = $this->result(1);
-        return view('welcome', compact('newresult'));
+        return view('home', compact('newresult'));
     }
 
     /**
