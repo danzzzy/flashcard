@@ -25,5 +25,5 @@
 - add to down when adding new columns after migrating to allow flexibility of reverting back
 
 
-TODO sqlの認証プラグインが違う気がするので来週調べる
+TODO sqlの認証プラグインが違う気がするので来週調べる or dockerを一からやりなおす
 https://www.chuken-engineer.com/entry/2020/09/04/074216
