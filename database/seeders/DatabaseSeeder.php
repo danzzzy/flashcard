@@ -4,7 +4,6 @@ namespace Database\Seeders;
 
 use Illuminate\Database\Console\Seeds\WithoutModelEvents;
 use Illuminate\Database\Seeder;
-use database/seeders/CardSeeder.php;
 
 class DatabaseSeeder extends Seeder
 {
