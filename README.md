@@ -23,3 +23,7 @@
 - `$table->string('name');` to add table columns
 - `sail artisan migrate` to migrate the created table with columns
 - add to down when adding new columns after migrating to allow flexibility of reverting back
+
+
+TODO sqlの認証プラグインが違う気がするので来週調べる
+https://www.chuken-engineer.com/entry/2020/09/04/074216
